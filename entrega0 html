@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>minha primeira pagina</title>
+  <meta name="descripion" content="descricao" />
+  <meta name="autor" content="victor juan" />
+</head>
+<body>
+  <h1>Victor juan campos rodrigues</h1>
+  <h2>23 anos</h2>
+  <h3>Cotia São Paulo</h3>
+  <h3>atuava como tecnico de intalação da claro.</h3>
+  <p><strong>conhecimento da <em>kenzie academy</em> atravez de site como facebook e instagram ate o momento não tive
+      qualquer interação com programação, o grande interrese surgio atravez de outros programadores que conheci nas
+      instalaçoes que fazia na claro. apartir desse momento busquei mais conhecimento e encontrei a
+      <em>kenzie.</em></strong>
+  <p>
+    <a href="https://www.instagram.com/" target="_blank">site do instagram</a>
+  <h1>minhas redes sociais favoritas</h1>
+  <ul>
+    <li>Instgram</li>
+    <li>Youtube</li>
+  </ul>
+  <h2>Meus objetivos na kenzie começar uma carreira como programador
+    e me formar aqui</h2>
+  <h1>Meu animal de estimação favorito doguinho</h1>
+  <img
+    src="https://media.graphassets.com/SXFovqnOSYu0JTyE32kT?_gl=1*r32d0*_ga*ODI5NDM3NC4xNjgzNTAwMTg3*_ga_G6FYGSYGZ4*MTY4NDc4MDQ0NS4zMC4xLjE2ODQ3ODA0OTIuMTMuMC4w"
+    alt="foto de cachorro">
+  </head>
+</body>
+
+</html>
